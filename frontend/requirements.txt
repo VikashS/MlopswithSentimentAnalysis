@@ -1,0 +1,14 @@
+#model supported
+transformers
+torch
+Pillow==10.0.0
+
+#web based
+fastapi==0.95.2
+uvicorn==0.22.0
+requests==2.31.0
+
+#code standard
+loguru
+pylint
+black
